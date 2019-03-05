@@ -2,9 +2,18 @@
 
 In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:
 
-        while (1) {
-          aleart("!");
-        }
+        <script>
+          while (1) {
+            alert("   ∧＿∧ ﾊﾞﾊﾞﾊﾞﾊﾞ\n"+
+                  "　(　･ω･)＝つ≡つ\n"+
+                  "　(っ　≡つ＝つ\n"+
+                  "　/　　　) \n"+
+                  "( /￣∪ \n"+
+                  "何回閉じても無駄ですよ～ｗｗ\n"+
+                  "m9（＾Д＾）プギャー！！\n"+
+                  "　byとりさん（@TypedTypelessTy）");
+          }
+        </script>
 
 Related news article (Japanese):
 [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
